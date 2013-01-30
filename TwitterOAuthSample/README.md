@@ -13,5 +13,7 @@ Twitter OAuth
 
 
 참고 : 트위터 프로필 이미지 API (SDWebImage 사용)
+
 https://api.twitter.com/1/users/profile_image?screen_name=[username]&size=bigger
+
 size : original, mini (24x24), normal (48x48), bigger (73x73) 원하는 크기로 요청
