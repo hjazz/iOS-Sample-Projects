@@ -12,8 +12,6 @@ Twitter OAuth
 1. 인증 성공후 sendUpdate로 트위터 업로드 (delegate로 성공, 실패 처리) (이미지 업로드는 불가)
 
 
-참고 : 트위터 프로필 이미지 API (SDWebImage 사용)
-
-https://api.twitter.com/1/users/profile_image?screen_name=[username]&size=bigger
-
+참고 : 트위터 프로필 이미지 API (SDWebImage 사용) 
+https://api.twitter.com/1/users/profile_image?screen_name=[username]&size=bigger 
 size : original, mini (24x24), normal (48x48), bigger (73x73) 원하는 크기로 요청
